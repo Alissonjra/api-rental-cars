@@ -1,4 +1,4 @@
-<img src="/.github/logo.png" width="200" />
+<img src="/.github/logo.png" width="300" />
 
 # API Rental cars 
 > Manage rental cars
