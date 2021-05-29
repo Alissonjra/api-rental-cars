@@ -1,6 +1,6 @@
 <img src="/.github/logo.png" width="200" />
 
-#API Rental cars 
+# API Rental cars 
 > Manage rental cars
 
 ## Database Diagram
